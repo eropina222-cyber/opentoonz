@@ -63,6 +63,7 @@ set(MOC_HEADERS
     locatorpopup.h
     magpiefileimportpopup.h
     mainwindow.h
+    masterctrlpanel.h
     matchline.h
     menubar.h
     menubarpopup.h
@@ -226,6 +227,7 @@ set(SOURCES
     loadfolderpopup.cpp
     main.cpp
     mainwindow.cpp
+    masterctrlpanel.cpp
     matchline.cpp
     menubar.cpp
     menubarpopup.cpp
