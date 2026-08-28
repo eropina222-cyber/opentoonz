@@ -101,6 +101,7 @@
 #define MI_OpenToolOptionBar "MI_OpenToolOptionBar"
 #define MI_OpenLevelView "MI_OpenLevelView"
 #define MI_OpenStopMotionPanel "MI_OpenStopMotionPanel"
+#define MI_OpenMasterController "MI_OpenMasterController"
 // #define MI_OpenExport "MI_OpenExport"
 #define MI_BrightnessAndContrast "MI_BrightnessAndContrast"
 #define MI_Antialias "MI_Antialias"
